@@ -1,0 +1,9 @@
+Sample 500 images of the digit "7" from the MNIST dataset. 
+Compute the empirical mean "u" and the empirical covariance "S". 
+Consider the random vector X in R^784, with X ~ MVN(u; S). 
+Show u as well as the 16 e-vectors associated with the largest e-values. 
+Sample 16 images from this distribution using.
+Note: you might need to re-scale the e-vectors before plotting as they are of unit norm. 
+Truly, it doesn't work so well in the sense that the samples of "7" do not look like real samples drawn by hand. 
+More
+work is needed to obtain realistic samples.
