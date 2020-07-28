@@ -1,0 +1,3 @@
+Take the case w1 = 0. 
+Propose an algorithm to sample from the Brownian bridge and code it.
+Plot 3 samples.
