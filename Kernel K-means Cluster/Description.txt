@@ -1,0 +1,3 @@
+Clustering Algorithm for 2 Kernels
+Data: kkm1.csv
+K=2
