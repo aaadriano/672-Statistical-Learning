@@ -1,0 +1,6 @@
+Perform kernel PCA on the MNIST dataset. Choose the digits 1 and 7. 
+Start with the linear
+kernel G(x;y) = (x^T)y. Sample n = 500 digits. 
+Show 8 projections onto the first 8 principal directions. 
+Do not forget to center the kernel.
+Then, redo the same but this time with a non linear kernel.
