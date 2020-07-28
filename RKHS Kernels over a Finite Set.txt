@@ -1,0 +1,5 @@
+Show samples in the given RKHS for the following Kernels:
+1) Gaussian kernel: K_{t}(i;j)= Ce^[-(1/2t^2)(i-j)^2]
+2) Gaussian Kernel, with a different t
+3) Polynomial Kernel
+4) Kernel: K(x,y)= min(x,y)
